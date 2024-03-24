@@ -10,7 +10,7 @@ export default {
       'green': '#006971',
       'dark-green': '#004140',
       'offwhite': 'rgba(255, 255, 255, 075)',
-      'white': '#ff',
+      'white': '#fff',
       'offwhitebg': '#f2f2f2'
     },
     fontFamily: {

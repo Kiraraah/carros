@@ -4,7 +4,7 @@ import iconLuxury from "./assets/icon-luxury.svg"
 
 export default function App() {
   return (
-    <main>
+    <main className="border-2 border-orange min-h-svh bg-offwhitebg">
       <section>
         <div className="bg-orange">
           <img src={iconSedans} alt="Icone dos Carro Sedans" />
